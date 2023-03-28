@@ -1,15 +1,7 @@
-# printf
+# Printf
 
-### Description
+The aim of the project is to understand the concept of team work and therefore, demisifying the concept of printf
 
----
+# Authors:
 
-The printf function sends formatted output to stdout.
-A custom \_printf() for learning purposes was developed by Samuel Martins and Simon Kariithi
-.\_printf() function format string is a character string, beginning and ending in its initial shift state/
-These arguments are placed using the percentage '%' operator
-
-### Authors &copy;
-
-- Samuel Martins
-- Simon Kariithi
+[Samnuel Martins](https://github.com/thesmartcoder7) and [Simon Kariithi](https://github.com/simonkari)
