@@ -1,7 +1,8 @@
-# Printf
+# ALX Software Enginering Printf Team Project
 
-The aim of the project is to understand the concept of team work and therefore, demisifying the concept of printf
+This team project is a custom made printf function for the C programming language called \_printf. It has been optimized to take various inputs and optional arguments based exactly on how the standard library function printf works. We submitted this as part of the ALX software engineering course requirement for grading.
 
-# Authors:
+## **Authors**
 
-[Samuel Martins](https://github.com/thesmartcoder7) and [Simon Kariithi](https://github.com/simonkari)
+Samuel Martins
+Simon Kariithi
